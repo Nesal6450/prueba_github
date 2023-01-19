@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    /*font-family: 'Gorillaz1', sans-serif;*/
+    background: rgb(32,69,189);
+    background: linear-gradient(90deg, rgba(32,69,189,1) 0%, rgba(21,195,161,0.9836309523809523) 38%, rgba(53,85,210,1) 100%);
+}
+.encabezado{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#logo{
+    width: 20vw;
+}
+.espacio-logo{
+    float: left;
+    left: 30px;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.encabezado a{
+    text-decoration: overline;
+    color: rgb(143, 40, 146);
+}
+
+
